@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn 
+scikit_learn 
+matplotlib 
+scipy
+scikit_learn
+jupyter
+ipykernel
+stemgraphic
+statsmodels
