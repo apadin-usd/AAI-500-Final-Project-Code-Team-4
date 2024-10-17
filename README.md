@@ -57,7 +57,6 @@ The dataset was cleaned by handling missing values and encoding categorical vari
 5. **Conclusion & Recommendations**: OLS is recommended as the best model for this dataset, with the possibility of improving future performance by adding external data (e.g., proximity to schools, crime rates).
 
 #### License
-***TBD***
-
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 
