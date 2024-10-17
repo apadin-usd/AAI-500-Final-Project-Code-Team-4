@@ -17,8 +17,8 @@ The main objective of this project is to build a predictive model that can accur
 
 ### Contributors
 - Alexander J Padin
-- Juan Pablo Triana Marrtinez
-- Marquise Olive
+- Juan Pablo Triana Martinez
+- Marquise Oliver
 
 ### Methods Used
 - Exploratory Data Analysis (EDA)
